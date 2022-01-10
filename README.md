@@ -11,12 +11,13 @@ The purpose of this analysis is to help Louise plan her kickstart campaign.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](H:\My Drive\School (HW, Syllabus, Etc)\MSU Bootcamp\Bootcamp Module Downloads\Crowdfunding Analysis\Challenge 1 Resources\Theater_Outcomes_vs_Launch.png)
+<img width="239" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/17411399/148711524-a9cb5041-f678-4c4f-8d76-7ff23933293b.png">
 
 Based on the launch dates of kickstarters for theaters, we can see that most failed during the month of May, so this would probably be the least successful month to launch a campaign. June and October had the highest successful launches, so these would be good months to consider launching a campaign.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](H:\My Drive\School (HW, Syllabus, Etc)\MSU Bootcamp\Bootcamp Module Downloads\Crowdfunding Analysis\Challenge 1 Resources\Outcomes_vs_Goals.png)
+<img width="241" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/17411399/148711547-a29a22ae-e5d1-4b7d-90c1-aad962351513.png">
+
 
 The percentage of kickstarters that were successful is significantly higher than those that failed, so we can confidently say that launching a campaign despite the goal has a probability of being successful. However, this graph also shows us that the higher the amount the less likely a campaign was to fail. Alternatively, the higher the campaign, the more likely it was successful.
 
